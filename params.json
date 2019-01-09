@@ -1,0 +1,6 @@
+{
+  "name": "SR-CTF Platform",
+  "tagline": "Present by NSSLab@UGA",
+  "body": "### Welcome to SR-CTF\r\nThe project **\"SR-CTF\"** is being sponsored by the **\"NSF\"** with the goal of enhancing and broadening computer security education through the development of **\"Stepwise\"** and **\"Reusable\"** CTF challenges that emphasize problem solving.\r\n\r\n#### Stepwise\r\nA user's skillset should **\"grow\"** as they progress from one challenge to the next. That growth should be relied upon for later challenges. A natural progression from challenge to challenge should be evident.\r\n\r\n#### Reusable\r\nEach challenge should be **\"tunable\"** such that unique variants can be generated with minimal effort.\r\n\r\n***\r\n\r\n### Get Started\r\nPlease follow the instructions [here](http://nsslab-yin.github.io/start.html)\r\n***\r\n\r\n\r\n### Support or Contact\r\nIf you have any questions or need more information, please contact @nsslab-yin or send email to yin@cs.uga.edu, we’ll help you sort it out.\r\n* This material is based upon work supported by the National Science Foundation under Award No. 1318881.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
